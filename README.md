@@ -1,5 +1,3 @@
-![Alt text](822f5ea40e0de12fef6c8db9a419b443.jpg)
----
 
 👋 Hi there, I'm Saharnaz!
 I’m a Data Scientist with a background in Computer Engineering and a strong passion for building intelligent systems that solve real-world problems. From machine learning models for vehicle telematics 🚗 to deep learning solutions for facial recognition 📸, I love transforming raw data into meaningful insights.
