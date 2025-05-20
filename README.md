@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/b1e942b0-c61a-4ed5-bcca-92dd1b522fa1)
-
+![image](https://github.com/user-attachments/assets/d17e3264-239e-47f5-9546-0929c587fbd2)
 
 ![Profile views](https://komarev.com/ghpvc/?username=saharnazyp&label=Profile%20views&color=brightgreen&style=for-the-badge)
 
