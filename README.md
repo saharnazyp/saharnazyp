@@ -1,9 +1,9 @@
-![image](https://github.com/user-attachments/assets/d17e3264-239e-47f5-9546-0929c587fbd2)
+      ![image](https://github.com/user-attachments/assets/d17e3264-239e-47f5-9546-0929c587fbd2)
 
 ![Profile views](https://komarev.com/ghpvc/?username=saharnazyp&label=Profile%20views&color=brightgreen&style=for-the-badge)
 
 ---
-![image](https://github.com/user-attachments/assets/b7f3e2f9-4032-47d5-a634-9c7731f5c786)
+![gif](https://github.com/user-attachments/assets/b7f3e2f9-4032-47d5-a634-9c7731f5c786)
 
 👋 Hi there, I'm Saharnaz!
 I’m a Data Scientist with a background in Computer Engineering and a strong passion for building intelligent systems that solve real-world problems. From machine learning models for vehicle telematics 🚗 to deep learning solutions for facial recognition 📸, I love transforming raw data into meaningful insights.
@@ -29,7 +29,7 @@ Data Tools:       Pandas, NumPy, Matplotlib, Seaborn
 Cloud & APIs:     Google Colab, Kaggle, GitHub, FastAPI, Gradio
 Other Tools:      Docker, Git, Power BI, Excel
 
-![image](https://github.com/user-attachments/assets/f7f10461-bb17-450e-9bfe-eb76d67ce9d1)
+![gif](https://github.com/user-attachments/assets/f7f10461-bb17-450e-9bfe-eb76d67ce9d1)
 
 
 📌 Current Projects
