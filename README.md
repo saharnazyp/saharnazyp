@@ -7,7 +7,7 @@
 👋 Hi there, I'm Saharnaz!
 I’m a Data Scientist with a background in Computer Engineering and a strong passion for building intelligent systems that solve real-world problems. From machine learning models for vehicle telematics 🚗 to deep learning solutions for facial recognition 📸, I love transforming raw data into meaningful insights.
 
-https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
+
 
 💡 What I Do
 🔍 Analyze complex datasets to find patterns, trends, and hidden signals
@@ -28,6 +28,7 @@ Data Tools:       Pandas, NumPy, Matplotlib, Seaborn
 Cloud & APIs:     Google Colab, Kaggle, GitHub, FastAPI, Gradio
 Other Tools:      Docker, Git, Power BI, Excel
 
+![image](https://github.com/user-attachments/assets/f7f10461-bb17-450e-9bfe-eb76d67ce9d1)
 
 📌 Current Projects
 🧭 Building a deep learning model to analyze driver behavior from telematics data
