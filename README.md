@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
 👋 Hi there, I'm Saharnaz!
 I’m a Data Scientist with a background in Computer Engineering and a strong passion for building intelligent systems that solve real-world problems. From machine learning models for vehicle telematics 🚗 to deep learning solutions for facial recognition 📸, I love transforming raw data into meaningful insights.
 
