@@ -1,4 +1,8 @@
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 👋 Hi there, I'm Saharnaz!
 I’m a Data Scientist with a background in Computer Engineering and a strong passion for building intelligent systems that solve real-world problems. From machine learning models for vehicle telematics 🚗 to deep learning solutions for facial recognition 📸, I love transforming raw data into meaningful insights.
 
@@ -40,6 +44,10 @@ Other Tools:      Docker, Git, Power BI, Excel
 📢 I enjoy teaching and mentoring others in data science
 
 🎯 My goal is to become a lead data scientist in automotive AI systems
+
+![Saharnaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharnazyp&layout=compact&theme=tokyonight)
+
 
 📬 Let’s Connect
 
