@@ -91,23 +91,17 @@ return {
 "✍️ AI Blogging": "Writing technical articles about machine learning applications",
 }
 
+## 🚀 Projects & Contributions
 
-```
-#  ────────────────────────────────────────────────
+- 🔭 **NASA Asteroid Discovery**: Proud contributor to asteroid discovery initiatives.
+- 🚗 **Telematics AI**: Building deep learning models to analyze driver behavior.
+- 📡 **Sensor Fusion**: Researching fusion techniques for vehicle diagnostics.
+- 🏆 **Competitions**: Active participant in global AI challenges (Kaggle, DrivenData).
+- ✍️ **Technical Writing**: Exploring and sharing insights on ML/AI applications.
+- 🎓 **Mentorship**: Passionate about teaching and empowering the next generation of data scientists.
 
-## ⚡ TECH STACK
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker&perline=6" />
-</p>
-
-## 📊 GITHUB STATS
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=radical" />
-</p>
-
-
+## 🎯 MY GOAL
+> "Aiming to lead the evolution of **Automotive AI Systems** through innovation and data-driven solutions."
 
 
 
@@ -124,3 +118,57 @@ return {
 
 if __name__ == "__main__":
     print("Thanks for visiting my profile — let's build intelligent systems 🤖")
+
+```
+#  ────────────────────────────────────────────────
+
+⚡ TECH STACK
+<p align=“center”>
+
+<img src=“https://skillicons.dev/icons?i=python,java,cs,r,pytorch,tensorflow,keras,spark,opencv,docker,unity,powerbi,jira,github&perline=7” />
+
+</p>
+
+📊 GITHUB STATS
+<p align=“center”>
+
+<img src=“https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=radical&hide_border=true” />
+
+</p>
+
+📈 ACTIVITY GRAPH
+<p align=“center”>
+
+<img src=“https://github-readme-stats.vercel.app/api/top-langs?username=saharnazyp&layout=compact&theme=radical” />
+
+</p>
+
+🐍 CYBER SNAKE ANIMATION
+<p align=“center”>
+
+<img src=“https://raw.githubusercontent.com/saharnazyp/saharnazyp/output/github-contribution-grid-snake.svg” alt=“snake animation” />
+
+</p>
+
+## 📬 CONNECT WITH ME
+<p align="center">
+
+<a href="https://www.linkedin.com/in/saharnaz-yaghoobpour-90068ab2/">
+<img src="https://img.shields.io/badge/LinkedIn-Saharnaz%20Yaghoobpour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:saharnazyp@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-saharnazyp%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.kaggle.com/saharnazyaghoobpoor">
+<img src="https://img.shields.io/badge/Kaggle-saharnazyaghoobpoor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="https://github.com/saharnazyp">
+<img src="https://img.shields.io/badge/GitHub-saharnazyp-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center"><i>"Building the future of automotive intelligence, one line of code at a time."</i></p>
