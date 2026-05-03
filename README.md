@@ -13,6 +13,48 @@
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 """
+<!-- CYBERPUNK NEON PROFILE -->
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=SAHARNAZ+YAGHOOBPOUR;AI+SOFTWARE+ENGINEER;AI+PRODUCT+MANAGER;BUILDING+INTELLIGENT+SYSTEMS" />
+</p>
+
+<h1 align="center">⚡ CYBERPUNK AI ENGINEER ⚡</h1>
+
+<p align="center">
+AI Software Engineer · AI Product Manager · Machine Learning
+</p>
+
+---
+
+## 🧠 AI Identity
+```python
+class Saharnaz:
+def __init__(self):
+self.name = "Saharnaz Yaghoobpour"
+self.role = "AI Software Engineer"
+self.skills = [
+"Machine Learning",
+"Deep Learning",
+"AI Product Engineering",
+"Automotive AI Systems"
+]
+self.tools = [
+"Python",
+"PyTorch",
+"TensorFlow",
+"FastAPI",
+"Docker"
+]
+
+def mission(self):
+return "Build futuristic AI systems for intelligent machines"
+
+def greeting(self):
+print("Welcome to my cyberpunk AI lab ⚡")
+
+me = Saharnaz()
+me.greeting()
 
 
 class Saharnaz:
