@@ -13,48 +13,6 @@
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 """
-<!-- CYBERPUNK NEON PROFILE -->
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=SAHARNAZ+YAGHOOBPOUR;AI+SOFTWARE+ENGINEER;AI+PRODUCT+MANAGER;BUILDING+INTELLIGENT+SYSTEMS" />
-</p>
-
-<h1 align="center">⚡ CYBERPUNK AI ENGINEER ⚡</h1>
-
-<p align="center">
-AI Software Engineer · AI Product Manager · Machine Learning
-</p>
-
----
-
-## 🧠 AI Identity
-```python
-class Saharnaz:
-def __init__(self):
-self.name = "Saharnaz Yaghoobpour"
-self.role = "AI Software Engineer"
-self.skills = [
-"Machine Learning",
-"Deep Learning",
-"AI Product Engineering",
-"Automotive AI Systems"
-]
-self.tools = [
-"Python",
-"PyTorch",
-"TensorFlow",
-"FastAPI",
-"Docker"
-]
-
-def mission(self):
-return "Build futuristic AI systems for intelligent machines"
-
-def greeting(self):
-print("Welcome to my cyberpunk AI lab ⚡")
-
-me = Saharnaz()
-me.greeting()
 
 
 class Saharnaz:
@@ -133,54 +91,60 @@ class Saharnaz:
             "🏆 AI Competitions": "Participating in Kaggle and DrivenData challenges",
             "✍️ AI Blogging": "Writing technical articles about machine learning applications",
         }
+⚡ TECH STACK
+<p align=“center”>
 
-    # 💻 Tech Stack
+<img src=“https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,github,linux&perline=6” />
 
-**Languages & Analytics**
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=database&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+<br/>
 
-**ML / DL Tools**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-%23F7931E.svg?style=for-the-badge&logo=apache%20kafka&logoColor=white)
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+<img src=“https://skillicons.dev/icons?i=mysql,postgres,sqlite,vscode,anaconda,opencv&perline=6” />
 
-**Data Tools & Visualization**
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%233D4F9C.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+</p>
 
-**Deployment / Web AI**
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300B4FF.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-%2315B9FF.svg?style=for-the-badge&logo=gradio&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+📊 GITHUB STATS
+<p align=“center”>
 
-**Cloud / Platforms / Collaboration**
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=google%20colab&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+<img src=“https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=radical&hide_border=true” width=“48%”>
 
-**Analytics / Other**
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<img src=“https://streak-stats.demolab.com?user=saharnazyp&theme=radical&hide_border=true” width=“48%”>
 
-**Icons / Tools (extra)**
-<div align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-</div>
+</p>
 
+📈 ACTIVITY GRAPH
+<p align=“center”>
+
+<img src=“https://github-readme-activity-graph.vercel.app/graph?username=saharnazyp&theme=react-dark&hide_border=true” />
+
+</p>
+
+🌐 CONNECT WITH ME
+<p align=“center”>
+
+<a href=“https://www.linkedin.com/in/saharnazyp”>
+
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:saharnazyaghoobpour@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+🐍 CYBER SNAKE ANIMATION
+<p align=“center”>
+
+<img src=“https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg” />
+
+</p>
+
+<p align=“center”>
+
+⚡ <i>“Engineering the future with artificial intelligence.”</i>
+
+</p>
 
 
 #  ┌──────────────────────────────────────────────────┐
@@ -197,20 +161,3 @@ class Saharnaz:
 if __name__ == "__main__":
     print("Thanks for visiting my profile — let's build intelligent systems 🤖")
 ز## 📊 GitHub Stats
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=saharnazyp&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharnazyp&layout=compact&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saharnazyp&theme=github-dark)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=saharnazyp&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharnazyp&layout=compact&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saharnazyp&theme=github-dark)
