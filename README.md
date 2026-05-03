@@ -102,19 +102,6 @@ return {
 
 }
 
-
-
-#  ┌──────────────────────────────────────────────────┐
-#  │  >>> saharnaz = Saharnaz()                       │
-#  │  >>> saharnaz.role                               │
-#  │  'AI Software Engineer'                          │
-#  │  >>> saharnaz.languages                          │
-#  │  ['Python', 'SQL', 'R']                          │
-#  │  >>> saharnaz.current_projects()["🚗 Driver Behavior AI"]
-#  │  'Deep learning model analyzing telematics...'   │
-#  └──────────────────────────────────────────────────┘
-
-
 if __name__ == "__main__":
     print("Thanks for visiting my profile — let's build intelligent systems 🤖")
 
