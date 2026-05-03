@@ -120,11 +120,42 @@ if __name__ == "__main__":
     print("Thanks for visiting my profile — let's build intelligent systems 🤖")
 
 ```
-#  ────────────────────────────────────────────────
+#  ──────────────────────────────────────
 
-## ⚡ TECH STACK
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,r,pytorch,tensorflow,keras,sklearn,opencv,spark,pandas,numpy,docker,git,github,linux,unity,dotnet,vscode,powerbi&perline=9" />
+⚡ TECH STACK
+💻 Programming
+<p align=“center”>
+
+<img src=“https://skillicons.dev/icons?i=python,java,cs,cpp,r&perline=8” />
+
+</p>
+
+🧠 AI / Machine Learning
+<p align=“center”>
+
+<img src=“https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&perline=8” />
+
+</p>
+
+<p align=“center”>
+
+<img src=“https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white” />
+
+<img src=“https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black” />
+
+</p>
+
+⚙️ Tools & Platforms
+<p align=“center”>
+
+<img src=“https://skillicons.dev/icons?i=docker,git,github,linux,unity,dotnet,vscode&perline=8” />
+
+</p>
+
+<p align=“center”>
+
+<img src=“https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black” />
+
 </p>
 
 
@@ -144,7 +175,7 @@ if __name__ == "__main__":
 </a>
 
 <a href="mailto:saharnazyaghoobpoor@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-saharnazyp%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-saharnazyagoobpoor%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.kaggle.com/saharnazyaghoobpoor">
