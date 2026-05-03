@@ -91,50 +91,61 @@ class Saharnaz:
             "🏆 AI Competitions": "Participating in Kaggle and DrivenData challenges",
             "✍️ AI Blogging": "Writing technical articles about machine learning applications",
         }
-⚡ TECH STACK
-<p align=“center”>
+## ⚡ TECH STACK
+<p align="center">
 
-<img src=“https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,github,linux&perline=6” />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,github,linux&perline=6" />
 
 <br/>
 
-<img src=“https://skillicons.dev/icons?i=mysql,postgres,sqlite,vscode,anaconda,opencv&perline=6” />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,vscode,anaconda,opencv&perline=6" />
 
 </p>
 
-📊 GITHUB STATS
-<p align=“center”>
+---
 
-<img src=“https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=radical&hide_border=true” width=“48%”>
+## 📊 GITHUB STATS
+<p align="center">
 
-<img src=“https://streak-stats.demolab.com?user=saharnazyp&theme=radical&hide_border=true” width=“48%”>
+<img src="https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=radical&hide_border=true" width="48%">
 
-</p>
-
-📈 ACTIVITY GRAPH
-<p align=“center”>
-
-<img src=“https://github-readme-activity-graph.vercel.app/graph?username=saharnazyp&theme=react-dark&hide_border=true” />
+<img src="https://streak-stats.demolab.com?user=saharnazyp&theme=radical&hide_border=true" width="48%">
 
 </p>
 
-🌐 CONNECT WITH ME
-<p align=“center”>
+---
 
-<a href=“https://www.linkedin.com/in/saharnazyp”>
+## 📈 ACTIVITY GRAPH
+<p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saharnazyp&theme=react-dark&hide_border=true" />
+
+</p>
+
+---
+
+## 🌐 CONNECT WITH ME
+<p align="center">
+
+<a href="https://www.linkedin.com/in/saharnazyp">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:saharnazyaghoobpour@gmail.com">
-
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
 
-🐍 CYBER SNAKE ANIMATION
-<p align=“center”>
+---
+
+## 🐍 CYBER SNAKE
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</p>
+
 
 <img src=“https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg” />
 
@@ -160,4 +171,3 @@ class Saharnaz:
 
 if __name__ == "__main__":
     print("Thanks for visiting my profile — let's build intelligent systems 🤖")
-ز## 📊 GitHub Stats
