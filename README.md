@@ -2,12 +2,12 @@
 """
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║   ███████╗ █████╗ ██╗  ██╗ █████╗ ██████╗ ███╗   ██╗ █████╗ ███████╗║
-║   ██╔════╝██╔══██╗██║  ██║██╔══██╗██╔══██╗████╗  ██║██╔══██╗╚══███╔╝║
-║   ███████╗███████║███████║███████║██████╔╝██╔██╗ ██║███████║  ███╔╝ ║
-║   ╚════██║██╔══██║██╔══██║██╔══██║██╔══██╗██║╚██╗██║██╔══██║ ███╔╝  ║
-║   ███████║██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║██║  ██║███████╗║
-║   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝║
+║   ███████╗ █████╗ ██╗  ██╗ █████╗ ██████╗ ███╗   ██╗ █████╗  ███████╗║
+║   ██╔════╝██╔══██╗██║  ██║██╔══██╗██╔══██╗████╗  ██║██╔══██╗ ╚══███╔╝║
+║   ███████╗███████║███████║███████║██████╔╝██╔██╗ ██║███████║   ███╔╝ ║
+║   ╚════██║██╔══██║██╔══██║██╔══██║██╔══██╗██║╚██╗██║██╔══██║  ███╔╝  ║
+║   ███████║██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║██║  ██║ ███████╗║
+║   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚══════╝║
 ║                         SAHARNAZ                                  ║
 ║      AI Software Engineer · AI Product Manager · Machine Learning ║
 ║                                                                   ║
@@ -154,4 +154,21 @@ class Saharnaz:
 
 if __name__ == "__main__":
     print("Thanks for visiting my profile — let's build intelligent systems 🤖")
-ز
+ز## 📊 GitHub Stats
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saharnazyp&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharnazyp&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saharnazyp&theme=github-dark)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saharnazyp&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharnazyp&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saharnazyp&theme=github-dark)
