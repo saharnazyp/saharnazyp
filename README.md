@@ -147,13 +147,7 @@ class Saharnaz:
 </p>
 
 
-<img src=“https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg” />
-
-</p>
-
-<p align=“center”>
-
-⚡ <i>“Engineering the future with artificial intelligence.”</i>
+⚡ <i>"Engineering the future with artificial intelligence."</i>
 
 </p>
 
