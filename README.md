@@ -91,17 +91,16 @@ return {
 "✍️ AI Blogging": "Writing technical articles about machine learning applications",
 }
 
-## 🚀 Projects & Contributions
-
-- 🔭 **NASA Asteroid Discovery**: Proud contributor to asteroid discovery initiatives.
-- 🚗 **Telematics AI**: Building deep learning models to analyze driver behavior.
-- 📡 **Sensor Fusion**: Researching fusion techniques for vehicle diagnostics.
-- 🏆 **Competitions**: Active participant in global AI challenges (Kaggle, DrivenData).
-- ✍️ **Technical Writing**: Exploring and sharing insights on ML/AI applications.
-- 🎓 **Mentorship**: Passionate about teaching and empowering the next generation of data scientists.
-
-## 🎯 MY GOAL
-> "Aiming to lead the evolution of **Automotive AI Systems** through innovation and data-driven solutions."
+def Projects&Contributions:
+return {
+- 🔭NASA Asteroid Discovery: Proud contributor to asteroid discovery initiatives.
+- 🚗Telematics AI: Building deep learning models to analyze driver behavior.
+- 📡Sensor Fusion: Researching fusion techniques for vehicle diagnostics.
+- 🏆Competitions: Active participant in global AI challenges (Kaggle, DrivenData).
+- ✍️Technical Writing: Exploring and sharing insights on ML/AI applications.
+- 🎓Mentorship: Passionate about teaching and empowering the next generation of data scientists.
+-🎯 MY GOAL:Aiming to lead the evolution of **Automotive AI Systems** through innovation and data-driven solutions.
+}
 
 
 
@@ -122,41 +121,30 @@ if __name__ == "__main__":
 ```
 #  ──────────────────────────────────────
 
-⚡ TECH STACK
-💻 Programming
-<p align=“center”>
+## ⚡ TECH STACK
 
-<img src=“https://skillicons.dev/icons?i=python,java,cs,cpp,r&perline=8” />
-
+### 💻 Programming  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,r&perline=8" />
 </p>
 
-🧠 AI / Machine Learning
-<p align=“center”>
-
-<img src=“https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&perline=8” />
-
+### 🧠 AI / Machine Learning  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&perline=8" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
 </p>
 
-<p align=“center”>
-
-<img src=“https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white” />
-
-<img src=“https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black” />
-
+### ⚙️ Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,unity,dotnet,vscode&perline=8" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-⚙️ Tools & Platforms
-<p align=“center”>
-
-<img src=“https://skillicons.dev/icons?i=docker,git,github,linux,unity,dotnet,vscode&perline=8” />
-
-</p>
-
-<p align=“center”>
-
-<img src=“https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black” />
-
-</p>
 
 
 
