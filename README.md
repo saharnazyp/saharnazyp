@@ -122,33 +122,18 @@ if __name__ == "__main__":
 ```
 #  ────────────────────────────────────────────────
 
-⚡ TECH STACK
-<p align=“center”>
+## ⚡ TECH STACK
+<img src="https://skillicons.dev/icons?i=python& i=java& i=cs& i=r& i=pytorch& i=tensorflow& i=keras& i=spark& i=opencv& i=docker& i=unity& i=powerbi& i=jira& i=github&perline=7" />
 
-<img src=“https://skillicons.dev/icons?i=python,java,cs,r,pytorch,tensorflow,keras,spark,opencv,docker,unity,powerbi,jira,github&perline=7” />
+## 📊 GITHUB STATS
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saharnazyp&show_icons=true&theme=radical&hide_border=true" />
 
-</p>
+## 📑 ACTIVITY GRAPH
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saharnazyp&layout=compact&theme=radical" />
 
-📊 GITHUB STATS
-<p align=“center”>
+## 🐍 CYBER SNAKE ANIMATION
+<img src="https://raw.githubusercontent.com/saharnazyp/saharnazyp/output/github-contribution-grid-snake.svg" />
 
-<img src=“https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=radical&hide_border=true” />
-
-</p>
-
-📈 ACTIVITY GRAPH
-<p align=“center”>
-
-<img src=“https://github-readme-stats.vercel.app/api/top-langs?username=saharnazyp&layout=compact&theme=radical” />
-
-</p>
-
-🐍 CYBER SNAKE ANIMATION
-<p align=“center”>
-
-<img src=“https://raw.githubusercontent.com/saharnazyp/saharnazyp/output/github-contribution-grid-snake.svg” alt=“snake animation” />
-
-</p>
 
 ## 📬 CONNECT WITH ME
 <p align="center">
