@@ -99,7 +99,7 @@ return {
 - 🏆Competitions: Active participant in global AI challenges (Kaggle, DrivenData).
 - ✍️Technical Writing: Exploring and sharing insights on ML/AI applications.
 - 🎓Mentorship: Passionate about teaching and empowering the next generation of data scientists.
--🎯 MY GOAL:Aiming to lead the evolution of **Automotive AI Systems** through innovation and data-driven solutions.
+
 }
 
 
@@ -120,12 +120,14 @@ if __name__ == "__main__":
 
 ```
 #  ──────────────────────────────────────
+##-🎯 MY GOAL:Aiming to lead the evolution of **Automotive AI Systems** through innovation and data-driven solutions.
+
 
 ## ⚡ TECH STACK
 
 ### 💻 Programming  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,r&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,r&perline=8" />
 </p>
 
 ### 🧠 AI / Machine Learning  
@@ -139,7 +141,7 @@ if __name__ == "__main__":
 
 ### ⚙️ Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,unity,dotnet,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,unity,vscode&perline=8" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
