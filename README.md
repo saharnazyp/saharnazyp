@@ -91,23 +91,20 @@ return {
 "✍️ AI Blogging": "Writing technical articles about machine learning applications",
 }
 
+
 ...
 #  └──────────────────────────────────────────────┘
-
-```markdown
-<!-- END OF PYTHON BLOCK -->
-<!-- END OF PYTHON BLOCK -->
 
 ## ⚡ TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker&perline=6" />
 </p>
 
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=radical" />
 </p>
 
 
