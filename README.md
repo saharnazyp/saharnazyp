@@ -120,6 +120,7 @@ if __name__ == "__main__":
 
 ```
 #  ──────────────────────────────────────
+
 🎯 MY GOAL:Aiming to lead the evolution of **Automotive AI Systems** through innovation and data-driven solutions.
 
 
@@ -178,4 +179,4 @@ if __name__ == "__main__":
 
 </p>
 
-<p align="center"><i>"Building the future of artifitialintelligence, one line of code at a time."</i></p>
+<p align="center"><i>"Building the future of artifitial intelligence, one line of code at a time."</i></p>
