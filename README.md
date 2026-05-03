@@ -124,8 +124,9 @@ if __name__ == "__main__":
 
 ## ⚡ TECH STACK
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cs,r,pytorch,tensorflow,keras,spark,opencv,docker,unity,powerbi,github,jira&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,r,pytorch,tensorflow,keras,sklearn,opencv,spark,pandas,numpy,docker,git,github,linux,unity,dotnet,vscode,powerbi&perline=9" />
 </p>
+
 
 
 ## 📊 GITHUB STATS
@@ -133,9 +134,6 @@ if __name__ == "__main__":
 
 ## 📑 ACTIVITY GRAPH
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saharnazyp&layout=compact&theme=radical" />
-
-## 🐍 CYBER SNAKE ANIMATION
-<img src="https://raw.githubusercontent.com/saharnazyp/saharnazyp/output/github-contribution-grid-snake.svg" />
 
 
 ## 📬 CONNECT WITH ME
@@ -145,7 +143,7 @@ if __name__ == "__main__":
 <img src="https://img.shields.io/badge/LinkedIn-Saharnaz%20Yaghoobpour-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:saharnazyp@gmail.com">
+<a href="mailto:saharnazyaghoobpoor@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-saharnazyp%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
