@@ -91,60 +91,28 @@ return {
 "✍️ AI Blogging": "Writing technical articles about machine learning applications",
 }
 
-⚡ TECH STACK
-<p align=“center”>
+...
+#  └──────────────────────────────────────────────┘
 
-<img src=“https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,git,github,linux&perline=6” />
+```markdown
+<!-- END OF PYTHON BLOCK -->
+<!-- END OF PYTHON BLOCK -->
 
-<br/>
+## ⚡ TECH STACK
 
-<img src=“https://skillicons.dev/icons?i=mysql,postgres,sqlite,vscode,anaconda,opencv&perline=6” />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker&perline=6" />
 </p>
 
-📊 GITHUB STATS
-<p align=“center”>
+## 📊 GITHUB STATS
 
-<img src=“https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=radical&hide_border=true” width=“48%”>
-
-<img src=“https://streak-stats.demolab.com?user=saharnazyp&theme=radical&hide_border=true” width=“48%”>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saharnazyp&show_icons=true&theme=radical" />
 </p>
 
-📈 ACTIVITY GRAPH
-<p align=“center”>
 
-<img src=“https://github-readme-activity-graph.vercel.app/graph?username=saharnazyp&theme=react-dark&hide_border=true” />
 
-</p>
 
-🌐 CONNECT WITH ME
-<p align=“center”>
-
-<a href=“https://www.linkedin.com/in/saharnazyp”>
-
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:saharnazyaghoobpour@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
-🐍 CYBER SNAKE ANIMATION
-<p align=“center”>
-
-<img src=“https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg” />
-
-</p>
-
-<p align=“center”>
-
-⚡ <i>Engineering the future with artificial intelligence.</i>
-
-</p>
 
 #  ┌──────────────────────────────────────────────────┐
 #  │  >>> saharnaz = Saharnaz()                       │
