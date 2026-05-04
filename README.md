@@ -83,14 +83,6 @@ return {
 "📊 Data Visualization": "Create meaningful visual insights for decision making",
 }
 
-def current_projects(self):
-return {
-"🚗 Driver Behavior AI": "Deep learning model analyzing telematics driving data",
-"🔬 Sensor Fusion": "Research on improving vehicle diagnostics using multi-sensor data",
-"🏆 AI Competitions": "Participating in Kaggle and DrivenData challenges",
-"✍️ AI Blogging": "Writing technical articles about machine learning applications",
-}
-
 def Projects&Contributions:
 return {
 - 🔭NASA Asteroid Discovery: Proud contributor to asteroid discovery initiatives.
@@ -106,7 +98,6 @@ if __name__ == "__main__":
     print("Thanks for visiting my profile — let's build intelligent systems 🤖")
 
 ```
-#  ──────────────────────────────────────
 
 🎯 MY GOAL:Aiming to lead the evolution of **Automotive AI Systems** through innovation and data-driven solutions.
 
