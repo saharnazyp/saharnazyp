@@ -98,10 +98,7 @@ if __name__ == "__main__":
     print("Thanks for visiting my profile — let's build intelligent systems 🤖")
 
 ```
-
-<p align="center">
-<img src = 🎯 MY GOAL:Aiming to lead the evolution of **Automotive AI Systems** through innovation and data-driven solutions./>
-</p>
+ 🎯 MY GOAL:Aiming to lead the evolution of **Automotive AI Systems** through innovation and data-driven solutions.
 
 
 ## ⚡ TECH STACK
