@@ -99,7 +99,9 @@ if __name__ == "__main__":
 
 ```
 
-🎯 MY GOAL:Aiming to lead the evolution of **Automotive AI Systems** through innovation and data-driven solutions.
+<p align="center">
+<img src = 🎯 MY GOAL:Aiming to lead the evolution of **Automotive AI Systems** through innovation and data-driven solutions./>
+</p>
 
 
 ## ⚡ TECH STACK
