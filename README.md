@@ -1,22 +1,14 @@
 <!-- ======================== SAHARNAZ • PROFILE ======================== -->
-```python
 <p align="center">
-<pre>
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║   ███████╗ █████╗ ██╗  ██╗ █████╗ ██████╗ ███╗   ██╗ █████╗  ███████╗║
-║   ██╔════╝██╔══██╗██║  ██║██╔══██╗██╔══██╗████╗  ██║██╔══██╗ ╚══███╔╝║
-║   ███████╗███████║███████║███████║██████╔╝██╔██╗ ██║███████║   ███╔╝ ║
-║   ╚════██║██╔══██║██╔══██║██╔══██║██╔══██╗██║╚██╗██║██╔══██║  ███╔╝  ║
-║   ███████║██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║██║  ██║ ███████╗║
-║   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚══════╝║
-║                         SAHARNAZ                                  ║
-║      AI Software Engineer · AI Product Manager · Machine Learning ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-</pre>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:FF4DFF,100:00E5FF&height=240&section=header&text=SAHARNAZ&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=FF4DFF&center=true&vCenter=true&width=1000&lines=AI+Software+Engineer;AI+Product+Manager;Machine+Learning+Enthusiast" />
+</p>
+
+
+```python
 class Saharnaz:
 """A data scientist passionate about building intelligent, product-ready AI systems."""
 
