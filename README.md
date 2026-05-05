@@ -1,6 +1,7 @@
 <!-- ======================== SAHARNAZ • PROFILE ======================== -->
 ```python
-"""
+<p align="center">
+<pre>
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
 ║   ███████╗ █████╗ ██╗  ██╗ █████╗ ██████╗ ███╗   ██╗ █████╗  ███████╗║
@@ -13,7 +14,9 @@
 ║      AI Software Engineer · AI Product Manager · Machine Learning ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
-"""
+</pre>
+</p>
+
 class Saharnaz:
 """A data scientist passionate about building intelligent, product-ready AI systems."""
 
