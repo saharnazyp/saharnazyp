@@ -98,28 +98,66 @@ if __name__ == "__main__":
 
 ## ⚡ TECH STACK
 
-### 💻 Programming  
+<!-- ================== AI / MACHINE LEARNING ================== -->
+<h2 align="center">🧠 AI / Machine Learning</h2>
+<!-- SkillIcons Row -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda,sklearn&perline=10" />
 </p>
-
-### 🧠 AI / Machine Learning  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&perline=8" />
-</p>
+<!-- Extended ML Tools -->
 <p align="center">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-00A6A6?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+<!-- YOLOv8 + Gradio -->
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Gradio-FF7A00?style=for-the-badge&logo=gradio&logoColor=white&labelColor=222222" />
+
+</p>
+<br>
+<!-- ================== COMPUTER VISION ================== -->
+<h2 align="center">👁️ Computer Vision</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,python,pytorch&perline=10" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLOv8-Ultralytics-111111?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-1A82FF?style=for-the-badge&logo=onnx&logoColor=white" />
+</p>
+<br>
+<!-- ================== MLOPS / PIPELINES ================== -->
+<h2 align="center">⚙️ MLOps & Deployment</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,linux,github,aws,&perline=10" />
 </p>
 
-### ⚙️ Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,unity,vscode&perline=8" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
 </p>
+<br>
+<!-- ================== DATA STACK ================== -->
+<h2 align="center">📊 Data Engineering</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+<br>
+<!-- ================== FRONTEND / UI FOR AI ================== -->
+<h2 align="center">✨ AI UI / Frontend</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,html&perline=10" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Gradio-FF7A00?style=for-the-badge&logo=gradio&logoColor=white&labelColor=222222" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 
 
