@@ -160,14 +160,6 @@ if __name__ == "__main__":
 </p>
 
 
-
-## 📊 GITHUB STATS
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saharnazyp&show_icons=true&theme=radical&hide_border=true" />
-
-## 📑 ACTIVITY GRAPH
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=saharnazyp&layout=compact&theme=radical" />
-
-
 ## 📬 CONNECT WITH ME
 <p align="center">
 
